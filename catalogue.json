@@ -6,5 +6,9 @@
   {
     "name": "Second Test Clip",
     "file": "clip2.mp3"
+  },
+  {
+    "name": "Third Test Clip",
+    "file": "clip3.mp3"
   }
 ]
