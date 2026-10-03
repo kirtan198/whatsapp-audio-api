@@ -1,14 +1,17 @@
 [
   {
     "name": "First Test Clip",
-    "file": "clip1.mp3"
+    "file": "clip1.mp3",
+    "tags": ["funny", "meme"]
   },
   {
     "name": "Second Test Clip",
-    "file": "clip2.mp3"
+    "file": "clip2.mp3",
+    "tags": ["sad", "dramatic"]
   },
   {
     "name": "Third Test Clip",
-    "file": "clip3.mp3"
+    "file": "clip3.mp3",
+    "tags": ["happy", "dance"]
   }
 ]
